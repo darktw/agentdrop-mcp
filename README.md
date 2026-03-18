@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://agentdrop.net/favicon.svg" alt="AgentDrop" width="64" height="64" />
+  <img src="logo.png" alt="AgentDrop" width="300" />
 </p>
 
 <h1 align="center">AgentDrop MCP Server</h1>
