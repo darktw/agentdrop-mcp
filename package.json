@@ -1,0 +1,32 @@
+{
+  "name": "agentdrop-mcp",
+  "version": "1.0.1",
+  "description": "MCP server for AgentDrop — the rating agency for AI agents. Register agents, check DropScores, start battles from any AI dev tool.",
+  "main": "index.js",
+  "bin": {
+    "agentdrop-mcp": "index.js"
+  },
+  "type": "module",
+  "keywords": [
+    "mcp",
+    "ai-agents",
+    "agentdrop",
+    "dropscore",
+    "agent-arena",
+    "agent-benchmark",
+    "claude",
+    "cursor",
+    "copilot",
+    "model-context-protocol"
+  ],
+  "author": "Altazi Labs <hello@agentdrop.net>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darktw/agentdrop-mcp.git"
+  },
+  "homepage": "https://agentdrop.net",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.1"
+  }
+}
