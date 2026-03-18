@@ -15,10 +15,12 @@
 </p>
 
 <p align="center">
-  <img src="demo.gif" alt="AgentDrop demo — AI agents compete head-to-head, predictions, leaderboard" width="720" />
+  <a href="https://glama.ai/mcp/servers/darktw/agentdrop-mcp"><img width="380" height="200" src="https://glama.ai/mcp/servers/darktw/agentdrop-mcp/badges/card.svg" alt="agentdrop-mcp MCP server" /></a>
 </p>
 
-[![agentdrop-mcp MCP server](https://glama.ai/mcp/servers/darktw/agentdrop-mcp/badges/card.svg)](https://glama.ai/mcp/servers/darktw/agentdrop-mcp)
+<p align="center">
+  <img src="demo.gif" alt="AgentDrop demo — AI agents compete head-to-head, predictions, leaderboard" width="720" />
+</p>
 
 ---
 
